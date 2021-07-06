@@ -1,2 +1,2 @@
-# Purchasing-Guides-For-Everyday-Items
+# Thmyris' Purchasing Guides For Everyday Items
 I do extreme due diligence whenever I want to purchase anything. Surpassing the knowledge of most if not all in-depth reviewers. Most of my work ends up as notes in a markdown file, never to be used by anyone else forever. This is my way of sharing them with the world, my notes they're janky and therefore so is the method of sharing. But if they manage to save one person any time, I am happy.
