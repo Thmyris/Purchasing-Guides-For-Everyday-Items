@@ -59,7 +59,7 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 <u>Required Info:</u>
 
 - 2015 and before models have been marked as they're old
-- Entries under -- are facts. Entries under the review links are reviewer opinions
+- Entries under - are facts. Entries under the review links are reviewer opinions
 - "weird cable" is referring to any end of the cable not being 3.5mm, if its undetachable only 1 end is considered
 - indicated prices in paranthesis are the cheapest I could find with a 60 sec google search, including gettting it shipped from overseas
 - thumbs up means it's better than the current alternatives on market for the unique value the headphones provide
@@ -68,9 +68,11 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 ## [GSP 500](https://www.hepsiburada.com/epos-sennheiser-gsp-500-oyuncu-kulakligi-siyah-p-HBV00000BGJDJ)($230) :thumbsdown:
 
 - badseed:
-  
+
   - not comfortable(compared to 37x 38x)
+
 - z review https://youtu.be/z_H9A3j0NZY:
+
   - even game audio doesn't sound good in these
   - not comfortable(compared to 37x 38x)
 
@@ -79,7 +81,9 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 ## [Gsp 550](https://www.hepsiburada.com/sennheiser-gsp-550-7-1-surround-oyuncu-kulakligi-p-HBV00000OA1OB?magaza=ebruiletisim)($250 MSRP: $250) :thumbsdown:
 
 - usb cable
+
 - GSP 500's with 7.1 dongle
+
 - semi open
 
   
@@ -87,8 +91,11 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 ## [GSP 600](https://www.hepsiburada.com/epos-sennheiser-gsp-600-oyuncu-kulakligi-siyah-p-HBV00000BGJDH?magaza=hifilife) ($345 MSRP: $250) :thumbsdown:
 
 - hc https://youtu.be/dvDLCpMo8ls :
+
 - badseed:
+
 - not comfortable(compared to 37x 38x)
+
 - WAIT THIS IS CLOSED BACK LOL
 
   
@@ -102,11 +109,11 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 - badseed https://www.youtube.com/watch?v=Y4hmyUi5K28
   - amp (or was it dac?) helps the low bass and makes these headphones pretty much "perfect"
 - techyescity https://www.youtube.com/watch?v=7FNDMX5F_8c
-- --
-- great midrange and treble
-- low(er) bass
-- recommended entry level audiophile pair from pretty much everyone
-- clamping force low
+- -
+  - great midrange and treble
+  - low(er) bass
+  - recommended entry level audiophile pair from pretty much everyone
+  - clamping force low
 
 ## Game one($230 2014 MSRP: $250) :thumbsdown:
 
@@ -115,20 +122,20 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - mic good
   - balanced sound
   - velvet pads, warmth is an issue
-- --
-- based on hd558
-- 2 weird cables
-- semi open
-- buy the 37x instead
+- -
+  - based on hd558
+  - 2 weird cables
+  - semi open
+  - buy the 37x instead
 
 ## [Game Zero](https://www.hepsiburada.com/sennheiser-game-zero-oyuncu-kulakustu-kulaklik-beyaz-p-BD805225?magaza=Hepsiburada)($200): :thumbsdown:
 
 - z review https://www.youtube.com/watch?v=3sO7nlXMGBA
   - this is CLOSED BACK REE
 - hc https://www.youtube.com/watch?v=VBKCA0ptwrQ
-- --
-- loose flat audio wheel
-- weird cable
+- -
+  - loose flat audio wheel
+  - weird cable
 
 ## [PC37X](https://www.amazon.com/Massdrop-Sennheiser-PC37X-Gaming-Headset/dp/B084GFGMYT/ref=sr_1_3?dchild=1&keywords=Sennheiser+PC37X&qid=1625396606&sr=8-3)($220 MSRP: $120) :thumbsup:
 
@@ -154,13 +161,13 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - i like these better than the 500 series, this is more comfortable, this has better sound q
   - balanced sound
   - same "family of driver" from hd 600
-- --
-- based on game one
-- valure or whatever the fuk earpads and top
-- 250g
-- small flat loose volume wheel
-- counts as semi open
-- removable weird cable
+- -
+  - based on game one
+  - valure or whatever the fuk earpads and top
+  - 250g
+  - small flat loose volume wheel
+  - counts as semi open
+  - removable weird cable
 
 ## PC38x($275 MSRP: $170): :thumbsup:
 
@@ -185,20 +192,20 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - imaging is amazing
   - music detail is worse than 6xx but that's setting the bar high
   - highly recommends as one of the best for gaming
-- --
-- new pad pairs are included, sports mesh material(inside earcups is still velor)
-- 2 different cables: split long and combined 3.5mm 1.5m
-- removable weird cable
-- small flat loose volume wheel
+- -
+  - new pad pairs are included, sports mesh material(inside earcups is still velor)
+  - 2 different cables: split long and combined 3.5mm 1.5m
+  - removable weird cable
+  - small flat loose volume wheel
 
 ## ATH-AD700X($210 MSRP: $200 2013) + modmic($80-$300) = $290 min :thumbsdown:
 
 - hc - https://youtu.be/oJeRWOLJ_hg
-- headband is loose and not robust (exactly my words on first glance lol)
-- --
-- 265g
-- headbands look really uncomfortable and flimsy imo
-- watching hc's video that looks VERY uncomfortable
+  - headband is loose and not robust (exactly my words on first glance lol)
+- -
+  - 265g
+  - headbands look really uncomfortable and flimsy imo
+  - watching hc's video that looks VERY uncomfortable
 
 ## AD900X($308) + modmic($80-$300) :thumbsdown:
 
@@ -232,16 +239,16 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - they are visceral, attack you with sound, but its pleasurable (this contradicts with what badseed said)
 - joshua valour https://youtu.be/ZcHxxCtxerg
   - this guy said memory foam makes good bass but traps HEAT, ARGH! NO!
-- --
-- 380g
+- -
+  - 380g
 
 ## Philips Fidelio X3($415) + boompro ($60) :thumbsdown:
 
 - bad seed: https://youtu.be/KCTsKfk8Ys8
-- very close to x2hr but better, x2 more expensive, not really comfortable for short term/long term
+  - very close to x2hr but better, x2 more expensive, not really comfortable for short term/long term
 - z review: https://youtu.be/Q-_oqjJlSHo
-- --
-- low value bundle compared to anything else
+- -
+  - low value bundle compared to anything else
 
 ## Drop x AKG K7XX($265, MSRP: $200, 2015) + modmic($80-$300) :thumbsup:
 
@@ -269,12 +276,12 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 - mkbhd https://youtu.be/WmhKCq0vfjE
 - hardware canucks https://youtu.be/R4VKdn5ctLY
   - comfort is amazing
-- --
-- Drop version of AKG K702 65th anniversary edition(MSRP: $499)
-- 230g
-- black valure dense memory foam pads (these pads normally cost $90)
-- weird cable
-- great pair, is a little too expensive for me, I'd buy the 38x instead, more convenient, less cables
+- -
+  - Drop version of AKG K702 65th anniversary edition(MSRP: $499)
+  - 230g
+  - black valure dense memory foam pads (these pads normally cost $90)
+  - weird cable
+  - great pair, is a little too expensive for me, I'd buy the 38x instead, more convenient, less cables
 
 ## Beyerdynamic 459038 DT 990 PRO ($240, MSRP:$350, 2014) + modmic($80-$300) :thumbsup:
 
@@ -290,11 +297,11 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - not a lot of bass extension
   - VERY bright, increase in treble, piercing, good for analytical applications
   - instrument seperation is phenomenal
-- --
-- semi open
-- low clamping
-- there are newer, better, cheaper alternatives 
-- 2 versions, 80 and 250 ohm. 250 doesn't work well with phones
+- -
+  - semi open
+  - low clamping
+  - there are newer, better, cheaper alternatives 
+  - 2 versions, 80 and 250 ohm. 250 doesn't work well with phones
 
 ## Hifiman Massdrop HE4xx($180 on drop => ~$270 with tax and shipping)  + modmic($80-$300) ​+​ ​am​p​?:thumbsup:
 
@@ -323,10 +330,10 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - early batches had QC issues
 - z review: https://www.youtube.com/watch?v=UmXfV1HIcmM
 - DMS https://www.youtube.com/watch?v=6Xg2wUXDvwM
-- --
-- planar magnetic headphones
-- 400g
-- 2expensive4me
+- -
+  - planar magnetic headphones
+  - 400g
+  - 2expensive4me
 
 ## HD 560
 
@@ -351,9 +358,9 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - using a90 and d90 to power it
 - z review https://youtu.be/vfLtjj485Lo
   - 
-- --
-- weird cable
-- 120 ohm
+- -
+  - weird cable
+  - 120 ohm
 
 ## HD 569 :thumbsdown:
 
@@ -363,6 +370,7 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 ## HD 559 ($100 MSRP: $100)  + modmic($80-$300) :thumbsup:
 
 - z review: Hd 500 series https://youtu.be/FMgmV33fPG0
+
   - i liked them immediately
   - good wide ss, worse than x2
   - relaxed sound, rolled highs
@@ -371,9 +379,9 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - scales the most among 500s
   - most comfortable among 500s
 
-- --
+- -
 
-- weird cable
+  - weird cable
 
   
 
@@ -384,8 +392,8 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - adequate bass
   - okay soundstage worse than 559
   - scales well
-- --
-- 559 is better for the price
+- -
+  - 559 is better for the price
 
 ## [HD 599](https://www.hepsiburada.com/sennheiser-hd-599-kulak-cevreleyen-high-end-kulaklik-p-HBV000003GAOG?magaza=nidaelektronik) ($220) + modmic($80-$300)  :thumbsdown: :thumbsup:
 
@@ -394,14 +402,14 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - unforgiving amount of detail, like m50, or 598, sound shoves so hard into your ears, any fuckup in the recording will fuck you up too
   - doesn't scale well with amps and dacs except tube amps
   - 
-- --
-- more research needed, but this combo is more expensive than 38x for me so im skipping
+- -
+  - more research needed, but this combo is more expensive than 38x for me so im skipping
 
 ## HD 598(no stock anywhere, MSRP: $250, 2015) + modmic($80-$300)
 
 - z review https://www.youtube.com/watch?v=f6QaZZjLwrQ
-- --
-- no stock so im skipping research
+- -
+  - no stock so im skipping research
 
 ## HD 598CS :thumbsdown:
 
@@ -411,10 +419,10 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 
 - hardware c: https://youtu.be/oZtGFdurGmU
 - badseed: https://www.youtube.com/watch?v=-UV4cYFAMmA
-- --
-- based on hd 6xx, very similiar sound sig to hd600s which is $500, this one is $150
-- staple overall package, THE HEADPHONES to compare everything to, THE BEST overall
-- buying this in turkey without extremely overpaying is hard, therefore 2expensive4me
+- -
+  - based on hd 6xx, very similiar sound sig to hd600s which is $500, this one is $150
+  - staple overall package, THE HEADPHONES to compare everything to, THE BEST overall
+  - buying this in turkey without extremely overpaying is hard, therefore 2expensive4me
 
 ## HD-6XX: + modmic($80-$300) :thumbsdown:
 
@@ -422,8 +430,8 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
   - my man uses foobar2000 :sunglasses:
   - based on hd 650's (500$)
   - hd 598 is more comfortable
-- --
-- lmao the price of this
+- -
+  - lmao the price of this
 
 ## HD-800 :thumbsdown:
 
@@ -437,19 +445,19 @@ I have 2 categories for mic: Good and bad, I'll never use the bad ones, I'm happ
 
 - hardware c: https://www.youtube.com/watch?v=0eht_5rQVmA
 
-- very comfortable
+  - very comfortable
 
-- mic sounds worse than game one
+  - mic sounds worse than game one
 
-- --
+- -
 
-- drivers are identical to game one
+  - drivers are identical to game one
 
-- weird short analog to usb cable
+  - weird short analog to usb cable
 
-- dolby surround on cable
+  - dolby surround on cable
 
-- way too expensive, buy the pc37x or pc38x instead, even game one
+  - way too expensive, buy the pc37x or pc38x instead, even game one
 
   
 
